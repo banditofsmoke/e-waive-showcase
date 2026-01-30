@@ -1,5 +1,5 @@
 # E-Waive - Electronic Waiver Management System
-homepage.PNG
+
 **Live Site:** [e-waive.com](https://e-waive.com)  
 **Role:** Solo Developer (Contract Project)  
 **Timeline:** 5 months
