@@ -95,3 +95,14 @@ This project taught me the importance of:
 ---
 
 *Note: Source code is private (client project). This showcase demonstrates the architecture and technical capabilities developed during this engagement.*
+
+### Application Screenshots
+
+**Homepage**  
+![E-Waive Homepage](homepage.PNG)
+
+**Admin Dashboard**  
+![Admin Dashboard](admin-dashboard.PNG)
+
+**Waiver Signing Flow**  
+![Waiver Signing](waiver-signing.PNG)
